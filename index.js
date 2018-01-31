@@ -42,7 +42,7 @@ function iLoveTheBeatles(num){
 
   do {
 
-    emptyarray.unshift("I Love The Beatles!");
+    emptyarray.push("I Love The Beatles!");
     num++;
 
   } while (num < 15);
